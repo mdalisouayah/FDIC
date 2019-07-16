@@ -14,7 +14,7 @@ FDIC-insured Financial institutions report information about the status of their
 Given that we are predicting a continuous numerical variable (past due loans), the problem is identified as a regression problem. As such, We will test several regression models and compare their performance. 
 
 ### 3. Data Collection: 
-The [FDIC data](./loan-performance_aggregate.xls) provides:
+The ![FDIC data](./loan-performance_aggregate.xls) provides:
 * **the aggregate quarterly amounts of the overall loan portfolio of all Banks**, which is our `predictor/independent variable`
 * **the aggregate amount of the past due loans**, which is our `target/dependent variable`
 
